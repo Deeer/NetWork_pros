@@ -3,7 +3,6 @@
 
 *.xcuserstate
 
-播放器/播放器Tests/Info.plist
 
 文件上传/文件上传.xcodeproj/project.xcworkspace/contents.xcworkspacedata
 
@@ -21,11 +20,6 @@
 
 *.json
 
-03-文件上传-封装（掌握）/02-文件上传（掌握）Tests/02-文件上传（掌握）Tests-Info.plist
-
-播放器/播放器.xcodeproj/xcuserdata/zjsruxxxy6.xcuserdatad/xcschemes/播放器.xcscheme
-
-03-文件上传-封装（掌握）/02-文件上传（掌握）.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/02-文件上传（掌握）.xcscheme
 
 文件上传/文件上传/Base.lproj/Main.storyboard
 
